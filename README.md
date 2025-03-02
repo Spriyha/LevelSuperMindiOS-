@@ -1,3 +1,13 @@
+# project SetUp
+
+git clone <repo_url>
+
+cd <LevelSuperMind>
+
+Open the .xcodeproj
+
+This app consists of multiple sections, all implemented using SwiftUI with MVVM also it has used UIKit for Recommedation Section and Recent Section
+
 Here is some ScreenShots how the App looks like
 
 ![Simulator Screenshot - iPhone 15 Plus - 2025-03-02 at 11 57 26](https://github.com/user-attachments/assets/b18ba69c-d4fd-4bee-8aa1-4b36158b2631)
